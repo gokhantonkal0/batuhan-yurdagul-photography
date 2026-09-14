@@ -1,0 +1,1 @@
+Klasörü birlikte saklayın. index.html dosyasına çift tıklayıp Chrome ile açın. ChatGPT hesabı gerekmez. Fotoğraf ve videolar klasörden yüklenir. WhatsApp ve Instagram bağlantıları internet gerektirir. Yayınlamak için klasörün tamamını statik web barındırmanıza yükleyebilirsiniz.
